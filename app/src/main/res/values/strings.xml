@@ -3,4 +3,5 @@
     <string name="welcome_to_workdone">Welcome to WorkDone!</string>
     <string name="welcome_text">Press the button below to continue</string>
     <string name="continue_text">Continue</string>
+    <string name="midpoint">Add Activity (will be added after midpoint submission)</string>
 </resources>
